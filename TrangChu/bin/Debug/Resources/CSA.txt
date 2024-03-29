@@ -1,7 +1,7 @@
 ﻿47 30
 
 
-ccccccccccccccccccc/ccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccc
 c,,,,,,,,,,,,,,,,,,k,,,,,,,,,,,,,,,,,,,,c
 c,,,tt..c%k%cg...j.....111111111111tt,,,c
 c,,,tt..c...c6...w.................<<,,,c
@@ -21,7 +21,7 @@ c$,$p),,,,,,,ccccc%,,,c,hbhbhbhb,%,,,,,,c
 c$,$p(gj8990,,,,,,,,pcc,k,,,,,,k,,,,,%,,c
 c$,$p*hb(**(,,,,,,,,p,ccccccccccc%,,%t%,c
 c$,$z1111111,,,,,,,,p,,,,,,,,,,,ka,,,%,,@
-c$,,,,,,,,,k,,,,,,,,z11,,,11111112,,,,,,,
+c$\,,,,,,,,k,,,,,,,,z11,,,11111112,,,,,,,
 c$$$$$$$$$$$,,,,,,,,,,,,,,,,,,,,,,,,,,,,c
 ccccccccccccccccccccccccccccccccccccccccc
 ccccccccccccccccccccccccccccccccccccccccc
